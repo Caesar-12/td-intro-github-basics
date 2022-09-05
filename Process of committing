@@ -1,0 +1,6 @@
+To commit a project to a repository we need to carry out the following steps
+Add the files to the staging area with the command "git add ."
+Commit the files in the staging area with a commit message with a commit message using the command ;
+"git commit -m "commit message here"
+Now we push the commit changes to the remote repsoitory usint the command
+"git push origin master" or if branch name differs "git push origin 'branch name'"
